@@ -1,0 +1,30 @@
+[--rev, 1.12.2]
+Loading BuildTools version: git-BuildTools-a0bbb6b-199 (#199)
+Java Version: Java 8
+Current Path: /home/yashindo/Git/Github/minecraft-ni-brad/buildtools
+git version 2.53.0
+openjdk version "1.8.0_472"
+OpenJDK Runtime Environment Corretto-8.472.08.1 (build 1.8.0_472-b08)
+OpenJDK 64-Bit Server VM Corretto-8.472.08.1 (build 25.472-b08, mixed mode)
+Attempting to build version: '1.12.2' use --rev <version> to override
+Found version
+{
+	"name": "1573k",
+	"description": "Jenkins build 1573k",
+	"refs": {
+		"BuildData": "be360cc298a06b5355ecd057f5b1feb894a73f0f",
+		"Bukkit": "558fdf5f54b0f527cd48903daf9368ac4b862876",
+		"CraftBukkit": "f4830a1687f37a4ee7c0bd08a30d925fbe0f9349",
+		"Spigot": "79a30d7d26b9078dbf6071cbbfa060673bf117b2"
+	},
+	"toolsVersion": 47,
+	"javaVersions": [52, 54]
+}
+
+Starting clone of https://hub.spigotmc.org/stash/scm/spigot/bukkit.git to Bukkit
+Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/bukkit.git to /home/yashindo/Git/Github/minecraft-ni-brad/buildtools/Bukkit. Current HEAD: 282dad0ee9804b783af8ea919ec6eb0727f42eea
+Starting clone of https://hub.spigotmc.org/stash/scm/spigot/craftbukkit.git to CraftBukkit
+Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/craftbukkit.git to /home/yashindo/Git/Github/minecraft-ni-brad/buildtools/CraftBukkit. Current HEAD: 56d2a88082dc5ecd20833a25b66b84a8b5d11b9c
+Starting clone of https://hub.spigotmc.org/stash/scm/spigot/spigot.git to Spigot
+Cloned git repository https://hub.spigotmc.org/stash/scm/spigot/spigot.git to /home/yashindo/Git/Github/minecraft-ni-brad/buildtools/Spigot. Current HEAD: cc5228d82b825a0288dd89cce14f9f49c1d07e1b
+Starting clone of https://hub.spigotmc.org/stash/scm/spigot/builddata.git to BuildData
