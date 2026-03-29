@@ -1,0 +1,6 @@
+name: MinecraftPlugin
+version: "${version}"
+main: org.application.Library
+api-version: 1.21
+description: My Minecraft plugin
+authors: [ yashindo ]
