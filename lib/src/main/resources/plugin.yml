@@ -1,6 +1,6 @@
-name: BradPlugin
-version: 1.0
-main: plugin.Library
-api-version: 1.12
-description: Brad's Minecraft plugin
-author: Brad
+name: MinecraftPlugin
+version: "${version}"
+main: org.application.Library
+api-version: 1.21
+description: My Minecraft plugin
+authors: [ yashindo ]
