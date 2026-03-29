@@ -6,9 +6,12 @@ build
 
 lib/build/
 lib/run/
+run/
+build/
 
 /target/
 !.mvn/wrapper/maven-wrapper.jar
+!gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
 .apt_generated
